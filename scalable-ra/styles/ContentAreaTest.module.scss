@@ -1,0 +1,37 @@
+
+
+.main {
+border: solid 1px red;
+background-color: rgb(212, 255, 255);
+}
+
+.header {
+background: #ccc;
+height: 100px;
+margin-bottom: 10px;
+margin-top: 0 auto;
+
+
+}
+
+.content_area_wrap {
+display: flex;
+align-items: center;
+}
+
+.sidebar, 
+.conrtent_area {
+height: 100vh;
+}
+
+.sidebar {
+flex: 0 0 200px;
+background: rgb(141, 58, 58);
+}
+
+.conrtent_area {
+
+}
+footer {
+
+}
